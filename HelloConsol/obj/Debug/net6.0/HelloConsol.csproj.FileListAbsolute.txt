@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Program\HelloConsol\bin\Debug\net6.0\HelloConsol.exe
+C:\Users\user\Desktop\Program\HelloConsol\bin\Debug\net6.0\HelloConsol.deps.json
+C:\Users\user\Desktop\Program\HelloConsol\bin\Debug\net6.0\HelloConsol.runtimeconfig.json
+C:\Users\user\Desktop\Program\HelloConsol\bin\Debug\net6.0\HelloConsol.dll
+C:\Users\user\Desktop\Program\HelloConsol\bin\Debug\net6.0\HelloConsol.pdb
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.AssemblyInfo.cs
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.dll
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\refint\HelloConsol.dll
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.pdb
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\HelloConsol.genruntimeconfig.cache
+C:\Users\user\Desktop\Program\HelloConsol\obj\Debug\net6.0\ref\HelloConsol.dll
